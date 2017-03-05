@@ -1,4 +1,5 @@
 <!DOCTYPE>
+<style>
 <body>
 		<h1>
 			MJ's Girls Who Code Portfolio
@@ -12,3 +13,6 @@
       </p>
       <img src="http://cindysmithphotography.com/store/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/a/tallulah_gorge_falls_georgia.jpg">
 </body>
+<head>
+  <link rel="stylesheet" href="Main Page - CSS">
+</head>
