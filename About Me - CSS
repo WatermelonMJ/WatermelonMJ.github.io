@@ -1,0 +1,13 @@
+h1{
+  color: #1C576C;
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+body{
+  background-color: #1C576C;
+  color: #ffffff;
+}
+h4{
+  font-family: "Times New Roman", Times, serif;
+}
